@@ -6,6 +6,7 @@
 bin/**
 !bin/res/
 bin/res/settings.json
+!bin/test/
 
 # User-specific files
 *.rsuser
