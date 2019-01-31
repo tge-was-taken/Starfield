@@ -1,0 +1,32 @@
+default
+keyfree event
+fldResident
+dngPack
+atDngPack
+place_pict
+
+
+Local
+	Layer
+		Base
+			FBN (f<major>_<minor>.pac/data/f<major>_<minor>_<layer>.FBN)
+			HTB (f<major>_<minor>.pac/hit/f<major>_<minor>_<layer>.HTB)
+			Hit script (f<major>_<minor>.pac/hit/fhit_<major>_<minor>_<layer>.bf)
+		NPC
+			Script (fnpc<major>_<minor>.pac/npc/fhit_<major>_<minor>_<layer>.bf)
+			Fnt (fnpc<major>_<minor>.pac/npc/fnt<major>_<minor>_<layer>.bf)
+			Fpt (fnpc<major>_<minor>.pac/npc/fpt<major>_<minor>_<layer>.bf)
+	
+	General
+		PCD (f<major>_<minor>.pac/data/f<major>_<minor>_<character id>.PCD)
+		FPA (f<major>_<minor>.pac/data/f<major>_<minor>.FPA)
+		CHD (f<major>_<minor>.pac/culling/f<major>_<minor>.CHD)
+		FEL (f<major>_<minor>.pac/enemy/f<major>_<minor>.FEL)
+		Init script (f<major>_<minor>.pac/init/fini_<major>_<minor>.bf)
+		Map (f<major>_<minor>.pac/map/d<major>_<minor>.MAP)
+		OBL (f<major>_<minor>.pac/object/f<major>_<minor>.OBL)
+		Object hit
+			HTB (f<major>_<minor>.pac/object_hit/f<major_<minor>.HTB)
+			Script (f<major>_<minor>.pac/object_hit/fhit<major>_<minor>.bf)
+		SHT (f<major>_<minor>.pac/sht/f<major_<minor>.SHT)
+		TBL (f<major>_<minor>.pac/fext<major>_<minor>.tbl)

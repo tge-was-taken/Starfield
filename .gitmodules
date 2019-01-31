@@ -1,0 +1,9 @@
+[submodule "Dependencies/GFD-Studio"]
+	path = Dependencies/GFD-Studio
+	url = https://github.com/TGEnigma/GFD-Studio
+[submodule "Dependencies/AtlusScriptToolchain"]
+	path = Dependencies/AtlusScriptToolchain
+	url = https://github.com/TGEnigma/AtlusScriptToolchain
+[submodule "Dependencies/AtlusFileSystemLibrary"]
+	path = Dependencies/AtlusFileSystemLibrary
+	url = https://github.com/TGEnigma/AtlusFileSystemLibrary
