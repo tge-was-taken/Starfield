@@ -62,8 +62,6 @@ namespace Starfield.GUI.Forms
             AssignDefaultTypeConverters();
             InitializeSceneViewport();
 
-            LoadField( @"D:\Modding\Persona 5 EU\Main game\ExtractedClean\ps3\field", 3, 2 );
-
             RegisterEvents();
         }
 
